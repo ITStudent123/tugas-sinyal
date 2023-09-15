@@ -14,6 +14,8 @@ print("NRP: 5009211007")
 
 Python Script: 
 
+![Screenshot (143)](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/f2f7b5cf-0725-4cba-9621-3fb7ac5fa2e7)
+
 
 
 **C. Last Commit Logs**
