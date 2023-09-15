@@ -20,5 +20,4 @@ Python Script:
 
 **C. Last Commit Logs**
 
-![C](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/a2174ba6-0644-4ac4-981a-17a1940830f8)
 
