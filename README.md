@@ -12,7 +12,7 @@ print("NRP: 5009211007")
 
 **B. Hasil dan Script di Spyder**
 
-Python Script: 
+
 
 ![B](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/df89e5cb-9c5f-46d8-9609-002e6e1e0eb4)
 
