@@ -23,3 +23,5 @@ print("NRP: 5009211007")
 
 ![Screenshot (146)](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/d06f0a72-4162-4c00-94c9-a45e7d4d444c)
 
+
+**Note : Untuk file tugas konvolusi tidak bisa di git-push sehingga terpaksa harus diupload**
