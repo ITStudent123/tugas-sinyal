@@ -21,4 +21,5 @@ print("NRP: 5009211007")
 
 **C. Last Commit Logs**
 
-<img width="958" alt="C" src="https://github.com/ITStudent123/tugas-sinyal/assets/90102620/57093539-03b2-420a-893a-5b204020bb35">
+![Screenshot (146)](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/d06f0a72-4162-4c00-94c9-a45e7d4d444c)
+
