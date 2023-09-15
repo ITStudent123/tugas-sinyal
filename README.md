@@ -14,8 +14,11 @@ print("NRP: 5009211007")
 
 Python Script: 
 
-![Screenshot (143)](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/f2f7b5cf-0725-4cba-9621-3fb7ac5fa2e7)
+![B](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/0fd6ae80-3b72-4c72-96a3-fdef14c0e3e3)
 
 
 
 **C. Last Commit Logs**
+
+![C](https://github.com/ITStudent123/tugas-sinyal/assets/90102620/a2174ba6-0644-4ac4-981a-17a1940830f8)
+
